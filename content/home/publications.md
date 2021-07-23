@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Accepted Papers'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -18,15 +18,15 @@ content:
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
-  offset: 0
+  offset: 1
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'MV-FractalDB: Formula-driven Supervised Learning for Multi-view Image Recognition'
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: 'IROS'
+    author: 'R. Yamada, R. Takahashi, R. Suzuki, A. Nakamura, Y. Yoshiyasu, R. Sagawa, H. Kataoka'
     exclude_featured: true
 design:
   # Choose a view for the listings:
