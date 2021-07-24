@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ryosuke-yamada.github.io/ryosuke.yamada.github.io/sitemap.xml
