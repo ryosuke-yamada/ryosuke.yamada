@@ -70,11 +70,11 @@ email: "yamada.r@is.fr.dendai.ac.jp"
 highlight_name: true
 ---
 
-I am a master student at Tokyo Denki University, working with Hirokatsu Kataoka in the Akio Nakamura Lab. 
+I am a master's student at Tokyo Denki University, working with Hirokatsu Kataoka in the cvpaper.challenge.
 
-My interests lie broadly at the intersection of machine learning, robotics, and computer graphics, with a focus on 3D object recognition with point cloud. 
+My interests lie broadly at the intersection of machine learning, robotics, and computer graphics, with a focus on 3D object recognition.
 
-In my research, I tackle ways in which the automatically construction of large-scale 3D datasets based on fractal geometry.
+In my research, I tackle ways in which the automatic construction of large-scale 3D datasets is based on fractal geometry.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
